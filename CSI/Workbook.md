@@ -8,7 +8,7 @@
 - evidenceType value="options" 
 - testItems value="72"
 - itemsType value="simple" 
-- evidence value="nomor, kode/elemen, statement"
+- evidence value="nomor, likert, kode/elemen, statement"
 - optionsType value="predefined"
 - optionsNums value="5"
 - optionsSelect value="1"
